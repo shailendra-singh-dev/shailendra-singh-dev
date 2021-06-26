@@ -1,5 +1,4 @@
 ### Hi there 👋 I am Shailendra Singh .
-   
 
 - 🔭 I’m currently working on Automotive projects for one of the renowed companies.
 - 🌱 I’m currently learning kotlin advanced level, expert in Java,C,Android. 
