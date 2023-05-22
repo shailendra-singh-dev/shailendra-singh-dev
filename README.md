@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on AOSP projects.
 - 🤔 I’m looking for Canadian opportunities.
 - 💬 Ask me about any support needed to develop topniche technology related features.
-- 📫 How to reach me: +1-8047245506,+46-727632401 shailendra.java6@gmail.com
+- 📫 How to reach me: +46-727632401 shailendra.java6@gmail.com
 
